@@ -1,4 +1,4 @@
-# soundsSimilar
+# Sounds-Similar
 
 ## This Is Literally Just What I Sent In The Chat
 
